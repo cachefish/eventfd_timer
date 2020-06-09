@@ -1,5 +1,5 @@
-#ifndef __WD_EVNETFD_H__
-#define __WD_EVNETFD_H__
+#ifndef __EVNETFD_H__
+#define __EVNETFD_H__
 #include <functional>
 
 namespace cf

@@ -1,5 +1,5 @@
 #ifndef __THREAD_H__
-#define __THREAD_H__
+#define _THREAD_H__
 
 #include "Noncopyable.h"
 #include <pthread.h>
